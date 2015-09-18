@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Podworko()
+comment0.text=\n\ Konstruktor\ obiekt\u00F3w\ klasy\ Podworko.\n
+comment1.params=
+comment1.target=void\ dodajJedzenie()
+comment1.text=\n\ Dodajemy\ jab\u0142ko\ do\ naszego\ podw\u00F3rka\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=3

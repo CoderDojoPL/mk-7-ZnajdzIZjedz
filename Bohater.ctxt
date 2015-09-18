@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -to,\ co\ ma\ si\u0119\ wykonywa\u0107\ nieustannie\n
+comment1.params=
+comment1.target=void\ sprawdzWcisnietyKlawisz()
+comment1.text=\n\ Sprawdza\ czy\ klawisz\ zosta\u0142\ naci\u015Bniety.\n\ Jezeli\ tak,\ wykonuje\ przypisane\ mu\ polecenie.\n
+comment2.params=
+comment2.target=void\ ogrodzenie()
+numComments=3
